@@ -1,6 +1,6 @@
 # ASTR3730_recitation
 
-Course files/labs for ASTR 3730: Astrophysics I
+Course files/labs for recitation of ASTR 3730: Astrophysics I
 
 Download all the files by clicking the big green button, or you can clone the repository using commandline (Terminal on Mac):
 
