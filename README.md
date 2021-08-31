@@ -2,7 +2,7 @@
 
 Course files/labs for recitation of ASTR 3730: Astrophysics I
 
-Download all the files by clicking the big green button, or you can clone the repository using commandline (Terminal on Mac):
+Download all the files by clicking the big green button, or you can clone the repository using command-line (Terminal on Mac):
 
 git clone https://github.com/johnnydorigojones/ASTR3730_recitation.git
 
