@@ -6,7 +6,7 @@ Download all the files by clicking the big green button, or you can clone the re
 
 git clone https://github.com/johnnydorigojones/ASTR3730_recitation.git
 
-However you do it, make sure you download all the files and that you preserve the directory structure wherever you put them. You can also download just the individual files for a given week from that folder, or (if going the command line route) you can just run git pull in the directory you originally cloned this repository into to get the most up-to-date version.
+However you do it, make sure you download all the files and that you preserve the directory structure wherever you put them. You can also download just the individual files for a given week from that folder, or (if going the command-line route) you can just run git pull in the directory you originally cloned this repository into to get the most up-to-date version.
 
 
 2nd recitation (python review) instructions:
