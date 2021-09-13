@@ -1,6 +1,6 @@
 # ASTR3730_recitation
 
-Course files/labs for recitation of ASTR 3730: Astrophysics I
+Course files/labs for the recitation of ASTR 3730: Astrophysics I (Fall 2021)
 
 See the "Recitations" page on Canvas for information about each lab/recitation.
 
